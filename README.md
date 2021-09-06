@@ -2,7 +2,7 @@
 This repository was created to learn about git and refresh memory when be need.
 
 ## Commands
---------------------------------------------------------------------------------------------------------------
+
 - git status:  Show status of current branch.
 - git log: Show commits in current branch.
 - git log --oneline: Show commits in current branch in one line.
@@ -19,7 +19,7 @@ This repository was created to learn about git and refresh memory when be need.
 - git merge nameBranch: Upload changes in any branch into current branch.
 
 ### Upload existing repository in local
----------------------------------------------------------------------------------------------------------------
+--
 - git init: Start local repository. 
 - git remote Add origin urlRemoteRepository: Add remote repository into current local repository.
 - git git pull origin master or
